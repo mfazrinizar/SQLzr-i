@@ -1,0 +1,6 @@
+This is the example results of the program. Live target : zim.it
+
+7
+
+
+1,1,amministratore,1,0,olivetti_ela,LM78613134 Underwood Nettuna 500
